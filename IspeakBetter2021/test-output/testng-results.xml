@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-05T22:23:13 GMT" name="Default suite" finished-at="2021-03-05T22:24:22 GMT" duration-ms="68826">
+    <groups>
+    </groups>
+    <test started-at="2021-03-05T22:23:13 GMT" name="Default test" finished-at="2021-03-05T22:24:22 GMT" duration-ms="68826">
+      <class name="org.qa.IspeakBetter.tests.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.qa.IspeakBetter.tests.LoginPageTest@af78c87]" started-at="2021-03-05T22:23:13 GMT" name="setUp" finished-at="2021-03-05T22:23:28 GMT" duration-ms="15075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="veryfyLoginPageTitle()[pri:1, instance:org.qa.IspeakBetter.tests.LoginPageTest@af78c87]" started-at="2021-03-05T22:23:28 GMT" name="veryfyLoginPageTitle" finished-at="2021-03-05T22:23:29 GMT" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veryfyLoginPageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.qa.IspeakBetter.tests.LoginPageTest@af78c87]" started-at="2021-03-05T22:23:29 GMT" name="tearDown" finished-at="2021-03-05T22:23:29 GMT" duration-ms="698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.qa.IspeakBetter.tests.LoginPageTest@af78c87]" started-at="2021-03-05T22:23:29 GMT" name="setUp" finished-at="2021-03-05T22:23:43 GMT" duration-ms="14000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="veryfyLoginPageHeader()[pri:2, instance:org.qa.IspeakBetter.tests.LoginPageTest@af78c87]" started-at="2021-03-05T22:23:43 GMT" name="veryfyLoginPageHeader" finished-at="2021-03-05T22:23:44 GMT" duration-ms="774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veryfyLoginPageHeader -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.qa.IspeakBetter.tests.LoginPageTest@af78c87]" started-at="2021-03-05T22:23:44 GMT" name="tearDown" finished-at="2021-03-05T22:23:45 GMT" duration-ms="835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.qa.IspeakBetter.tests.LoginPageTest@af78c87]" started-at="2021-03-05T22:23:45 GMT" name="setUp" finished-at="2021-03-05T22:23:58 GMT" duration-ms="12966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest1()[pri:3, instance:org.qa.IspeakBetter.tests.LoginPageTest@af78c87]" started-at="2021-03-05T22:23:58 GMT" name="loginTest1" description="Login test is using correct username and password" finished-at="2021-03-05T22:24:02 GMT" duration-ms="4006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.qa.IspeakBetter.tests.LoginPageTest@af78c87]" started-at="2021-03-05T22:24:02 GMT" name="tearDown" finished-at="2021-03-05T22:24:03 GMT" duration-ms="782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.qa.IspeakBetter.tests.LoginPageTest@af78c87]" started-at="2021-03-05T22:24:03 GMT" name="setUp" finished-at="2021-03-05T22:24:16 GMT" duration-ms="12903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest2()[pri:4, instance:org.qa.IspeakBetter.tests.LoginPageTest@af78c87]" started-at="2021-03-05T22:24:16 GMT" name="loginTest2" description="Login test is using incorrect username and incorrect password" finished-at="2021-03-05T22:24:21 GMT" duration-ms="5308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.qa.IspeakBetter.tests.LoginPageTest@af78c87]" started-at="2021-03-05T22:24:21 GMT" name="tearDown" finished-at="2021-03-05T22:24:22 GMT" duration-ms="832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.qa.IspeakBetter.tests.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
